@@ -16,22 +16,13 @@ After that NGO can review submitted application and choose candidates.
 # Our project is deployed on heroku access it using this url:-
 ## https://volunteerlyproj.herokuapp.com/
 
-# some credentials for you or you can create a new account
-## login as ngo
--> email - smile@gmail.com
--> pass - 123456
 
-## login as user
--> email - harsh@gmail.com
--> pass - 123456
 
 
 # Want a tutorial? check this video uploaded on youtube about the working of Volunteerly
 ##  https://youtu.be/PjQ1TjK07oc
 
 
-# Here is the github repo link if you want to see source code
-## https://github.com/harshv9988/hack-mait
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
